@@ -11,6 +11,11 @@ body {
   background-position: left;
 }
 
+.title,
+.text{
+  text-shadow: 3px 3px 5px #157347;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
